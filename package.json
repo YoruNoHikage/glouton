@@ -1,0 +1,28 @@
+{
+  "name": "glouton",
+  "description": "Like Promise.all but with retry and rate limit",
+  "version": "1.0.0",
+  "main": "queue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorunohikage/glouton.git"
+  },
+  "keywords": [
+    "promise",
+    "concurrency",
+    "batch",
+    "api",
+    "limit",
+    "queue",
+    "retry"
+  ],
+  "author": "Alexis Launay <yorunohikage@gmail.com> (http://yorunohikage.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorunohikage/glouton/issues"
+  },
+  "homepage": "https://github.com/yorunohikage/glouton#readme"
+}
